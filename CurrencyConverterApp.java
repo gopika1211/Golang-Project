@@ -10,7 +10,7 @@ import javax.swing.*;
 
 public class CurrencyConverterApp {
 
-    private static final String API_KEY = "eab8cccbb67dd35227b32b9b"; // Your API key
+    private static final String API_KEY = "eab8cccbb67dd35227b32b9b"; // API key
     private static final String API_URL = "https://v6.exchangerate-api.com/v6/";
 
     public static void main(String[] args) {
